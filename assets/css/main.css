@@ -1781,11 +1781,11 @@ section,
   transform: translateY(-3px);
 }
 
-.purchase .book-format-card .buy-options .retailers {
+.retailers {
   margin-top: 15px;
 }
 
-.purchase .book-format-card .buy-options .retailers span {
+.retailers span {
   display: block;
   font-size: 12px;
   color: color-mix(in srgb, var(--default-color), transparent 30%);
